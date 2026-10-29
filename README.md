@@ -14,3 +14,5 @@ A small neural network in TensorFlow/Keras that recognises handwritten digits (M
 pip install tensorflow numpy matplotlib
 python mainp.py
 ```
+
+On macOS, if downloading MNIST fails with a certificate error, run `Install Certificates.command` from your Python folder in Applications.
